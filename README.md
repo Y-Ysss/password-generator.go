@@ -2,6 +2,13 @@
 This program generate random passwords.
 The program uses standard Go lang libraries.
 
+## Notice
+**This repository is sample. It is very weak and not cryptographically secure.**
+
+
+**I don't tested the generated passwords for defects and vulnerable.**
+
+
 ## Sample
 Sample example passwords this library may generate:
 ```
